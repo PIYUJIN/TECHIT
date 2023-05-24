@@ -5,7 +5,7 @@ public class MainClass {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		// 문제1)
+	// 문제1)
         // 다음 중 기본 자료형에서 바이트 수에 맞는 자료형을 ( )안에 작성하세요
         // 없는 것은 X 를 넣어주세요
         // 논리형 : 1 byte - (boolean), 2 byte - (X), 4 byte - (X), 8 byte - (X)
